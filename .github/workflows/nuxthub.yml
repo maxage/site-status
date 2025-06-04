@@ -37,4 +37,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: site-status-icpx
+          project-key: site-status-s3qd
